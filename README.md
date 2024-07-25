@@ -5,4 +5,15 @@ GameCo intends to develop new games in order to remain competitive in the market
 
 
 ## Objective
-Perform a descriptive analysis of a video game data set to inform about the development of GameCo’s new games on the market.
+Perform a descriptive analysis of a video game data set to inform about the development of GameCo’s new games on the market. Analyzing Regional Sales Trends for Informed Decision-Making
+
+## Stakeholders
+
+
+## Dateset
+[Vzchart](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+
+
+## Tools
+Excel, Powerpoint
+
